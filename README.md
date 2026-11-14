@@ -1,4 +1,4 @@
-# irhan4o-Ai_ChatFree_Grok
+
 # C# AI Console Chat
 
 Просто конзолно приложение за чат с AI, използващо **Groq API** и модела **Llama 3.1**.
