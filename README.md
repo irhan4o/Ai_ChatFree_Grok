@@ -1,9 +1,9 @@
 
 # C# AI Console Chat
 
-Просто конзолно приложение за чат с AI, използващо **Groq API** и модела **Llama 3.1**.
+A simple console-based AI chat application using the **Groq API** and the **Llama 3.1** model.
 
-## Как се използва:
-1. Регистрирайте се в [Groq Cloud](https://console.groq.com/) и вземете безплатен API ключ.
-2. Добавете ключа в системните променливи (**Environment Variables**) на вашия компютър под името `GROQ_API_KEY`.
-3. Стартирайте проекта през Visual Studio или с командата `dotnet run`.
+## How to use:
+1. Register at [Groq Cloud](https://console.groq.com/) and obtain a free API key.
+2. Add the key to your computer's **Environment Variables** under the name `GROQ_API_KEY`.
+3. Run the project via Visual Studio or by using the command `dotnet run`.
